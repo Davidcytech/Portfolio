@@ -1,0 +1,209 @@
+EP
+Estoril Praia
+Estadio Antonio Coimbra da Mota
+5000
+9000
+3000
+230000000
+Ian Francis Cathro
+4-5-1
+27
+Joel Robles
+Guarda-Redes
+71
+50
+5
+3000
+01/07/2023
+30/06/2025
+24
+1
+Kevin Chamorro
+Guarda-Redes
+69
+0
+0
+2700
+01/02/2023
+31/01/2025
+24
+23
+Pedro Alvaro
+Defesa
+70
+10
+10
+2900
+01/06/2023
+31/05/2025
+24
+71
+Volnei
+Defesa
+68
+30
+10
+2600
+01/03/2023
+28/02/2025
+24
+3
+Ismael Sierra
+Defesa
+72
+70
+10
+3100
+01/04/2023
+31/03/2026
+36
+44
+Kevin Boma
+Defesa
+69
+90
+10
+2800
+01/05/2023
+30/04/2025
+24
+25
+Felix Bacher
+Defesa
+66
+0
+0
+2500
+01/09/2023
+31/08/2025
+24
+5
+Eliaquim Mangala
+Defesa
+75
+0
+0
+4000
+01/07/2023
+30/06/2027
+48
+24
+Pedro Amaral
+Medio
+71
+20
+30
+3300
+01/05/2023
+30/04/2026
+36
+20
+Wagner Pina
+Medio
+70
+40
+30
+3200
+01/06/2023
+31/05/2025
+24
+22
+Pedro Carvalho
+Medio
+69
+60
+30
+3100
+01/07/2023
+30/06/2025
+24
+7
+Zanocelo
+Medio
+73
+80
+30
+3500
+01/08/2023
+31/07/2026
+36
+88
+Xeka
+Medio
+74
+50
+50
+3800
+01/09/2023
+31/08/2026
+36
+8
+Michel Costa
+Medio
+70
+0
+0
+3000
+01/02/2023
+31/01/2025
+24
+19
+Andre Lacximicant
+Avancado
+72
+0
+0
+3500
+01/04/2023
+31/03/2026
+36
+11
+Helder Costa
+Avancado
+75
+50
+70
+4200
+01/06/2023
+31/05/2027
+48
+17
+Fabricio Garcia
+Avancado
+74
+0
+0
+4000
+01/07/2023
+30/06/2027
+48
+9
+Alejando Marques
+Avancado
+71
+0
+0
+3700
+01/03/2023
+28/02/2025
+24
+14
+Yanis Begraoui
+Avancado
+73
+0
+0
+3600
+01/08/2023
+31/07/2025
+24
+92
+Israel Salazar
+Avancado
+71
+0
+0
+3300
+01/09/2023
+31/08/2025
+24

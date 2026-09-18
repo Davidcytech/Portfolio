@@ -1,0 +1,209 @@
+SCB
+Sporting Club de Braga
+Estadio Municipal de Braga
+30000
+60000
+40000
+1270000000
+Carlos Augusto Soares da Costa Faria Carvalhal
+5-3-2
+1
+Matheus
+Guarda-Redes
+90
+50
+5
+4500
+01/06/2023
+31/05/2026
+36
+91
+Lukas Hornieck
+Guarda-Redes
+75
+0
+0
+3200
+01/07/2023
+30/06/2025
+24
+4
+Sikou Niakate
+Defesa
+80
+10
+10
+4000
+01/08/2023
+31/07/2026
+36
+26
+Bright Arrey-Mbi
+Defesa
+72
+25
+10
+3400
+01/09/2023
+31/08/2025
+24
+15
+Paulo Oliveira
+Defesa
+84
+50
+10
+4300
+01/10/2023
+30/09/2026
+36
+19
+Adrian Marin
+Defesa
+73
+75
+10
+3700
+01/11/2023
+31/10/2025
+24
+25
+Yuri Ribeiro
+Defesa
+77
+90
+10
+3900
+01/12/2023
+30/11/2026
+36
+13
+Joao Ferreira
+Defesa
+75
+0
+0
+3600
+01/01/2024
+31/12/2026
+36
+2
+Victor Gomez
+Defesa
+81
+0
+0
+4200
+01/02/2024
+31/01/2027
+36
+16
+Rodrigo Zalazar
+Medio
+82
+30
+40
+4300
+01/03/2024
+28/02/2027
+36
+10
+Andre Horta
+Medio
+85
+50
+40
+4600
+01/04/2024
+31/03/2027
+36
+8
+Joao Moutinho
+Medio
+86
+70
+40
+4800
+01/05/2024
+30/04/2027
+36
+21
+Ricardo Hota
+Avancado
+79
+0
+0
+4300
+01/06/2024
+31/05/2027
+36
+20
+Ismael Gharbi
+Avancado
+78
+0
+0
+4200
+01/07/2024
+30/06/2027
+36
+7
+Bruma
+Avancado
+81
+60
+70
+4400
+01/08/2024
+31/07/2027
+36
+33
+Joao Marques
+Avancado
+77
+0
+0
+4100
+01/09/2024
+31/08/2027
+36
+77
+Gabri Martinez
+Avancado
+76
+0
+0
+4000
+01/10/2024
+30/09/2027
+36
+11
+Roger
+Avancado
+80
+0
+0
+4300
+01/11/2024
+31/10/2027
+36
+27
+Rafik Guitane
+Avancado
+79
+0
+0
+4200
+01/12/2024
+30/11/2027
+36
+97
+Roberto Fernandez
+Avancado
+99
+40
+70
+4400
+01/01/2025
+31/12/2027
+36

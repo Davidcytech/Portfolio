@@ -1,0 +1,209 @@
+SCP
+Sporting Clube de Portugal
+Estadio Jose Alvalade
+50000
+80000
+35000
+4430000000
+Tiago Filipe Monteiro Teixeira
+4-3-3
+13  
+Vladan Kovacevic
+Guarda-Redes
+80
+50
+5
+4500
+01/06/2023
+31/05/2026
+36
+1
+Franco Israel
+Guarda-Redes
+78
+0
+0
+4200
+01/07/2023
+30/06/2025
+24
+41
+Diego Callai
+Guarda-Redes
+76
+0
+0
+4000
+01/08/2023
+31/07/2025
+24
+25
+Goncalo Inacio
+Defesa
+85
+10
+10
+4600
+01/09/2023
+31/08/2026
+36
+26
+Ousmane Diomande
+Defesa
+82
+30
+10
+4400
+01/10/2023
+30/09/2026
+36
+2
+Matheus Reis
+Defesa
+84
+70
+10
+4500
+01/11/2023
+31/10/2026
+36
+22
+Ivan Fresneda
+Defesa
+79
+90
+10
+4300
+01/12/2023
+30/11/2026
+36
+6
+Zeno Debast
+Defesa
+80
+0
+0
+4200
+01/01/2024
+31/12/2026
+36
+47
+Ricardo Esgaio
+Defesa
+83
+0
+0
+4600
+01/02/2024
+31/01/2027
+36
+3
+Jerry St. Juste
+Defesa
+82
+0
+0
+4400
+01/03/2024
+28/02/2027
+36
+72
+Eduardo Quaresma
+Defesa
+81
+0
+0
+4500
+01/04/2024
+31/03/2027
+36
+11
+Nuno Santos
+Medio
+84
+30
+40
+4700
+01/05/2024
+30/04/2027
+36
+23
+Daniel Braganca
+Medio
+82
+50
+40
+4400
+01/06/2024
+31/05/2027
+36
+42
+Morten Hjulmand
+Medio
+85
+70
+40
+4600
+01/07/2024
+30/06/2027
+36
+17
+Trincao
+Avancado
+86
+20
+70
+4800
+01/08/2024
+31/07/2027
+36
+9
+Viktor Gyokeres
+Avancado
+87
+50
+70
+4900
+01/09/2024
+31/08/2027
+36
+19
+Conrad Harder
+Avancado
+80
+80
+70
+4300  
+01/10/2024
+30/09/2027
+36
+57
+Geovany Quenda
+Avancado
+77
+0
+0
+4100
+01/11/2024
+31/10/2027
+36
+10
+Marcus Edwards
+Avancado
+85
+0
+0
+4600
+01/12/2024
+30/11/2027
+36
+20
+Maxi Araujo
+Avancado
+79
+0
+0
+4200
+01/01/2025
+31/12/2027
+36

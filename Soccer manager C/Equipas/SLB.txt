@@ -1,0 +1,209 @@
+SLB
+Sport Lisboa e Benfica
+Estadio do Sport Lisboa e Benfica
+65000
+110000
+50000
+3350000000
+Bruno Miguel Silva do Nascimento
+4-4-2
+1
+Anatoliy Trubin
+Guarda-Redes
+83
+50
+5
+4000
+01/06/2023
+31/05/2026
+36
+24
+Samuel Soares
+Guarda-Redes
+72
+0
+0
+2800
+01/07/2023
+30/06/2025
+24
+75
+Andre Gomes
+Guarda-Redes
+78
+0
+0
+3200
+01/08/2023
+31/07/2026
+36
+4
+Antonio Silva
+Defesa
+75
+10
+10
+3500
+01/09/2023
+31/08/2026
+36
+44
+Tomas Araujo
+Defesa
+74
+30
+10
+3400
+01/10/2023
+30/09/2025
+24
+30
+Nicolas Otamendi
+Defesa
+85
+70
+10
+4500
+01/11/2023
+31/10/2026
+36
+3
+Alvaro Carreras
+Defesa
+71
+90
+10
+3000
+01/12/2023
+30/11/2025
+24  
+6
+Alexander Bah
+Defesa
+80
+0
+0
+4300
+01/01/2024
+31/12/2026
+36
+28
+Issa Kabore
+Defesa
+77
+0
+0
+4000
+01/02/2024
+31/01/2027
+36
+81
+Adrian Bajrami
+Defesa
+73
+0
+0
+3300
+01/03/2024
+28/02/2026
+24
+61
+Florentino
+Medio
+82
+20
+40
+4200
+01/04/2024
+31/03/2027
+36
+10
+Orkun Kokcu
+Medio
+84
+40
+40
+4400
+01/05/2024
+30/04/2027
+36
+85
+Renato Sanches
+Medio
+88
+60
+40
+4600
+01/06/2024
+31/05/2027
+36
+8
+Fredrik Arsunes
+Medio
+75
+80
+40
+3500
+01/07/2024
+30/06/2026
+24
+11
+Angel Di Maria
+Avancado
+90
+40
+70
+5000
+01/08/2024
+31/07/2027
+36
+9
+Arthur Cabral
+Avancado
+82
+60
+70
+4800
+01/09/2024
+31/08/2027
+36
+47
+Tiago Gouveia
+Avancado
+78
+0
+0
+4300
+01/10/2024
+30/09/2027
+36
+7
+Zeki Amdouni
+Avancado
+79
+0
+0
+4400
+01/11/2024
+31/10/2027
+36
+14
+Vangelis Pavlidis
+Avancado
+76
+0
+0
+4200
+01/12/2024
+30/11/2027
+36
+32
+Benjamin Rollheiser
+Avancado
+74
+0
+0
+4100
+01/01/2025
+31/12/2027
+36

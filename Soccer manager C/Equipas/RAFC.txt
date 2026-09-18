@@ -1,0 +1,209 @@
+RAFC
+Rio Ave Futebol Clube
+Estadio do Rio Ave Futebol Clube
+20000
+30000
+9000
+320000000
+Armando Goncalves Teixeira
+4-3-3
+1
+Cezary Miszta
+Guarda-Redes
+70
+0
+0
+2900
+01/05/2023
+30/04/2025
+24
+18
+Jhonatan
+Guarda-Redes
+72
+50
+5
+3000
+01/06/2023
+31/05/2025
+24
+99
+Antezlo Sina
+Guarda-Redes
+71
+0
+0
+2800
+01/01/2023
+31/12/2025
+36
+23
+Francisco Petrasso
+Defesa
+74
+10
+10
+3200
+01/07/2023
+30/06/2026
+36
+2
+Jonathan Panzo
+Defesa
+73
+30
+10
+3100
+01/05/2023
+30/04/2025
+24
+4
+Patrick William
+Defesa
+72
+70
+10
+3000
+01/03/2023
+28/02/2025
+24
+42
+Renato Pantalon
+Defesa
+75
+90
+10
+3300
+01/09/2023
+31/08/2026
+36
+43
+Joao Muniz
+Defesa
+71
+0
+0
+2900
+01/08/2023
+31/07/2025
+24
+33
+Aderllan Santos
+Defesa
+76
+0
+0
+3400
+01/10/2023
+30/09/2026
+36
+98
+Omar Richards
+Defesa
+74
+0
+0
+3200
+01/11/2023
+31/10/2025
+24
+5
+Georgios Okkas
+Defesa
+72
+0
+0
+3100
+01/06/2023
+31/05/2025
+24
+17
+Marios Vrousai
+Defesa
+71
+0
+0
+3000
+01/02/2023
+31/01/2025
+24
+10
+Amine
+Medio
+74
+30
+40
+3500
+01/07/2023
+30/06/2026
+36
+8
+Vitor Gomes
+Medio
+73
+50
+40
+3400  
+01/03/2023
+28/02/2025
+24
+76
+Martim Neto
+Medio
+75
+70
+40
+3600
+01/06/2023
+31/05/2027
+48
+11
+Tiago Morais
+Avancado
+77
+20
+70
+3800
+01/05/2023
+30/04/2026
+36
+27
+Tobias Medina
+Avancado
+76
+50
+70
+3700
+01/07/2023
+30/06/2026
+36
+19
+Kiko Bondoso
+Avancado
+75
+80
+70
+3600
+01/08/2023
+31/07/2025
+24
+94
+Tim Sousa
+Avancado
+78
+0
+0
+4000
+01/09/2023
+31/08/2027
+48
+22
+Ahmed Hassan
+Avancado
+79
+0
+0
+4200
+01/10/2023
+30/09/2027
+48

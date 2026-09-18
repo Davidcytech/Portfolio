@@ -1,0 +1,209 @@
+VSC
+Vitoria Sport Clube
+Estadio D.Afonso Henriques
+29000
+43000
+15000
+480000000
+Rui Manuel Gomes Borges
+4-3-3
+14
+Bruno Varela
+Guarda-Redes
+75
+50
+5
+4500
+01/06/2023
+31/05/2026
+36
+27
+Charles
+Guarda-Redes
+72
+0
+0
+4200
+01/07/2023
+30/06/2026
+36
+47
+Joao Oliveira
+Guarda-Redes
+67
+0
+0
+4000
+01/08/2023
+31/07/2026
+36
+24
+Toni Borevkovic
+Defesa
+73
+10
+10
+4300
+01/09/2023
+31/08/2026
+36
+4
+Tomas Ribeiro
+Defesa
+74
+30
+10
+4400
+01/10/2023
+30/09/2026
+36
+44
+Jorge Fernandes
+Defesa
+70
+70
+10
+4200
+01/11/2023
+31/10/2026
+36
+3
+Mikel Villanueva
+Defesa
+74
+90
+10
+4300
+01/12/2023
+30/11/2026
+36
+15
+Oscar Rivas
+Defesa
+68
+0
+0
+4100
+01/01/2024
+31/12/2026
+36
+13
+Joao Mendes
+Defesa
+66
+0
+0
+4000
+01/02/2024
+31/01/2027
+36
+2
+Maga
+Defesa
+69
+0
+0
+4200
+01/03/2024
+28/02/2027
+36
+76
+Bruno Gaspar
+Defesa
+72
+0
+0
+4400
+01/04/2024
+31/03/2027
+36
+8
+Tomas Handel
+Medio
+73
+30
+40
+4300
+01/05/2024
+30/04/2027
+36
+10
+Tiago Silva
+Medio
+75
+50
+40
+4400
+01/06/2024
+31/05/2027
+36
+17
+Ze Carlos
+Medio
+70
+70
+40
+4200
+01/07/2024
+30/06/2027
+36
+20
+Samu
+Medio
+72
+0
+0
+4300
+01/08/2024
+31/07/2027
+36
+11
+Kaio Cesar
+Avancado
+68
+20
+70
+4100
+01/09/2024
+31/08/2027
+36
+71
+Gustavo Silva
+Avancado
+67
+50
+70
+4000
+01/10/2024
+30/09/2027
+36
+18
+Telmo Arcanjo
+Avancado
+72
+80
+70
+4200
+01/11/2024
+31/10/2027
+36
+9
+Jesus Ramirez
+Avancado
+74
+0
+0
+4300
+01/12/2024
+30/11/2027
+36
+7
+Nelson Oliveira
+Avancado
+76
+0
+0
+4500
+01/01/2025
+31/12/2027
+36
