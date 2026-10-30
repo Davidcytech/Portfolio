@@ -1,4 +1,4 @@
-<h1>Hi, I'm David! <br/>Programmer, Game developer, and learning cybersecurity</h1>
+<h1>Hi, I'm David! <br/>Programmer, Game developer and learning cybersecurity</h1>
 
 <h2>👨‍💻 Bachelor's Projects:</h2>
 
